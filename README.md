@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20NumbBot%20👋&fontSize=70" />
+  <h1>Hi 👋, I'm NumbBot</h1>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Master;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 </div>
